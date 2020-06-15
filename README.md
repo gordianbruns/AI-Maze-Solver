@@ -8,8 +8,8 @@ Programming Language: Python 3.7.4
 ------------------------
 I. File list
 ------------
-mouse.py	implementation of the agent + goal test
-main.py		implementation of state representation + search algorithms + transition function
+  - mouse.py	implementation of the agent + goal test
+  - main.py		implementation of state representation + search algorithms + transition function
 (store the files in the same directory)
 
 II. Usage
